@@ -1,0 +1,10 @@
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\bin\x64\Debug\astolfo clicker.exe.config
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\bin\x64\Debug\astolfo clicker.exe
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\bin\x64\Debug\astolfo clicker.pdb
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\obj\x64\Debug\astolfo_clicker.Form1.resources
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\obj\x64\Debug\astolfo_clicker.Properties.Resources.resources
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\obj\x64\Debug\astolfo_clicker.shop.resources
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\obj\x64\Debug\astolfo clicker.csproj.GenerateResource.cache
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\obj\x64\Debug\astolfo clicker.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\obj\x64\Debug\astolfo clicker.exe
+C:\Users\jeffr\source\repos\astolfo clicker\astolfo clicker\obj\x64\Debug\astolfo clicker.pdb
